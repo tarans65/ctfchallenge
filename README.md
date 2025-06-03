@@ -1,6 +1,6 @@
 Name: Echoes of Guilt
 
-Description: Attach unknown.wav file
+Description: Attached unknown.wav file
 
 Hint (Will Cost Some # of Points) - "Reversed"
 
