@@ -1,5 +1,7 @@
 Name: Echoes of Guilt
 
+Description: Attach unknown.wav file
+
 Hint (Will Cost Some # of Points) - "Reversed"
 
 How To Solve:
