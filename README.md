@@ -1,6 +1,6 @@
 Name: Echoes of Guilt
 
-Hint (Cost: Some # of Points) - Reversed
+Hint (Will Cost: Some # of Points) - "Reversed"
 
 How To Solve:
  - Open .wav file in hex editor
