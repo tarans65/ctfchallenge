@@ -25,7 +25,25 @@ Hint (Will Cost A Lot of Points) - Our competitor has represented Michael Phelps
 
 How to Solve:
    - Reverse image search
-   - Find the law firm and check their website
+   - Find the law firm and check its website
    - Go to testimonials and scroll down
      
 Flag: dfend{ashley_t}
+_______________________________________________________________________________________________________________________________
+
+Challenge 3: Forensics
+Name: Paper Trail (Medium)
+
+Description:
+There is a rumor that an employee of the Law Offices of Mack, Cole, and Slaw is smuggling sensitive data in plain sight. The Law Offices of Mack, Cole & Slaw intercepted this file and believe it contains a key piece of evidence, but they need your help to extract it. Don’t trust what you see on the surface. The real truth might be zipped in deeper. Attached: receipt_polyglot.pdf
+
+Hint (Will Cost A Lot of Points): The real truth might be zipped in deeper.
+
+How to Solve:
+   - Open receipt_polyglot.pdf normally — you’ll see a receipt and a fake flag
+   - Rename the file extension from .pdf to .zip
+   - Open the .zip file using 7-Zip
+   - Extract DO_NOT_OPEN.exe (actually a text file)
+   - Open it in a text editor 
+
+Flag: dfend{judg3_0v3rru13d}
