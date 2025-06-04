@@ -19,7 +19,7 @@ Name: Firm vs. Firm (Medium)
 Description: In recent years, the Law Offices of Mack, Cole & Slaw have had some serious competitors.
 There is one firm in particular that has been our biggest competitor, and this competition between the firms has been going on for years. 
 We need to find out what the name of this law firm is, but more importantly, the name of one of their clients, who claims that "they can not say enough good things". 
-The only clue we have is this image of a nearby gym and lake. Help out the Law Offices of Mack, Cole & Slaw and end this competition once and for all! The flag format is dfend{firstname_lastnameinitial} - all lowercase - example: dfend{bob_g} Attached: clue.png
+The only clue we have is this image of a nearby gym. Help out the Law Offices of Mack, Cole & Slaw and end this competition once and for all! The flag format is dfend{firstname_lastnameinitial} - all lowercase - example: dfend{bob_g} Attached: clue.png
 
 Hint (Will Cost A Lot of Points) - Our competitor has represented Michael Phelps
 
