@@ -10,6 +10,8 @@ How To Solve:
    - Reverse each individual byte in the first three rows
    - Save the file and open it in a Sonic Visualiser
    - View a spectrum of the wave to reveal the flag
+
+Flag: dfend{happy_mack}
 _______________________________________________________________________________________________________________________________
 Challenge 2: OSINT
 Name: Law Competition (Medium)
@@ -25,3 +27,5 @@ How to Solve:
    - Reverse image search
    - Find the law firm and check their website
    - Go to testimonials and scroll down
+     
+Flag: dfend{ashley_t}
