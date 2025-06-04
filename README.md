@@ -40,10 +40,10 @@ There is a rumor that an employee of the Law Offices of Mack, Cole, and Slaw is 
 Hint (Will Cost A Lot of Points): The real truth might be zipped in deeper.
 
 How to Solve:
-   - Open receipt_polyglot.pdf normally — you’ll see a receipt and a fake flag
+   - Open receipt_polyglot.pdf normally (you’ll see a regular receipt)
    - Rename the file extension from .pdf to .zip
-   - Open the .zip file using 7-Zip
-   - Extract DO_NOT_OPEN.exe (actually a text file)
-   - Open it in a text editor 
+   - Open the .zip file using WINRAR
+   - Extract DO_NOT_OPEN.exe --> Alt V
+   - Flag will be revealed
 
 Flag: dfend{judg3_0v3rru13d}
