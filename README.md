@@ -35,7 +35,7 @@ Challenge 3: Forensics
 Name: Paper Trail (Medium)
 
 Description:
-There is a rumor that an employee of the Law Offices of Mack, Cole, and Slaw is smuggling sensitive data in plain sight. The Law Offices of Mack, Cole & Slaw intercepted this file and believe it contains a key piece of evidence, but they need your help to extract it. Don’t trust what you see on the surface. The real truth might be zipped in deeper. Attached: receipt_polyglot.pdf
+There is a rumor that an employee of the Law Offices of Mack, Cole, and Slaw is smuggling sensitive data in plain sight. The Law Offices of Mack, Cole & Slaw intercepted this file and believe it contains a key piece of evidence, but they need your help to extract it. Don’t trust what you see on the surface. The real truth might be zipped in deeper. Attached: receipt.pdf
 
 Hint (Will Cost A Lot of Points): The real truth might be zipped in deeper.
 
@@ -44,6 +44,6 @@ How to Solve:
    - Rename the file extension from .pdf to .zip
    - Open the .zip file using WINRAR
    - Extract DO_NOT_OPEN.exe --> Alt V
-   - Flag will be revealed
+   - The flag will be revealed
 
 Flag: dfend{judg3_0v3rru13d}
