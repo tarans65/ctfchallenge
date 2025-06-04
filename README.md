@@ -14,7 +14,7 @@ How To Solve:
 Flag: dfend{happy_mack}
 _______________________________________________________________________________________________________________________________
 Challenge 2: OSINT
-Name: Law Competition (Medium)
+Name: Firm vs. Firm (Medium)
 
 Description: In recent years, the Law Offices of Mack, Cole & Slaw have had some serious competitors.
 There is one firm in particular that has been our biggest competitor, and this competition between the firms has been going on for years. 
@@ -32,7 +32,7 @@ Flag: dfend{ashley_t}
 _______________________________________________________________________________________________________________________________
 
 Challenge 3: Forensics
-Name: Paper Trail (Medium)
+Name: Paper Trail (Easy)
 
 Description:
 There is a rumor that an employee of the Law Offices of Mack, Cole, and Slaw is smuggling sensitive data in plain sight. The Law Offices of Mack, Cole & Slaw intercepted this file and believe it contains a key piece of evidence, but they need your help to extract it. Don’t trust what you see on the surface. The real truth might be zipped in deeper. Attached: receipt.pdf
