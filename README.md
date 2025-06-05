@@ -50,7 +50,7 @@ Flag: dfend{judg3_0v3rru13d}
 _______________________________________________________________________________________________________________________________
 
 Challenge 4: Forensics
-Name: Slack Leak (Medium)
+Name: Slack Leak (Easy)
 
 Description:
 The Law Offices of Mack, Cole, & Slaw currently use Slack as their main messaging system. However, it seems that their slack channels have been hacked! Explore the files and find the flag! Attached: slack_messages.zip
