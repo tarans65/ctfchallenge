@@ -47,3 +47,18 @@ How to Solve:
    - The flag will be revealed
 
 Flag: dfend{judg3_0v3rru13d}
+_______________________________________________________________________________________________________________________________
+
+Challenge 4: Forensics
+Name: Slack Leak (Medium)
+
+Description:
+The Law Offices of Mack, Cole, & Slaw currently use Slack as their main messaging system. However, it seems that their slack channels have been hacked! Explore the files and find the flag! Attached: slack_leak.zip
+
+How to Solve: 
+   - Review files and look for secret messages
+   - Notice base 64 and convert it
+      - Will get the first part of the flag ("defend")
+   - Continue looking through the files to find the whole flag
+
+Flag: DFEND{emoji_shadows_hide_truth}
