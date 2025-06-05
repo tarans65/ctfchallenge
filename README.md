@@ -40,7 +40,7 @@ There is a rumor that an employee of the Law Offices of Mack, Cole, and Slaw is 
 Hint (Will Cost A Lot of Points): The real truth might be zipped in deeper.
 
 How to Solve:
-   - Open reciept.pdf normally (you’ll see a regular receipt)
+   - Open receipt.pdf normally (you’ll see a regular receipt)
    - Rename the file extension from .pdf to .zip
    - Open the .zip file using WINRAR
    - Extract DO_NOT_OPEN.exe --> Alt V
@@ -53,7 +53,7 @@ Challenge 4: Forensics
 Name: Slack Leak (Medium)
 
 Description:
-The Law Offices of Mack, Cole, & Slaw currently use Slack as their main messaging system. However, it seems that their slack channels have been hacked! Explore the files and find the flag! Attached: slack_leak.zip
+The Law Offices of Mack, Cole, & Slaw currently use Slack as their main messaging system. However, it seems that their slack channels have been hacked! Explore the files and find the flag! Attached: slack_messages.zip
 
 How to Solve: 
    - Review files and look for secret messages
@@ -61,4 +61,4 @@ How to Solve:
       - Will get the first part of the flag ("defend")
    - Continue looking through the files to find the whole flag
 
-Flag: DFEND{emoji_shadows_hide_truth}
+Flag: dfend{th3_sl4ck_h4ck3r}
